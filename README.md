@@ -45,8 +45,7 @@ Analyzed the header using MXToolbox Header Analyzer.
 
 ## Received Mail
 ![Mail](mail.png)
-
-## Generated report by MXheaderanaalyser
+## Generated report by MXtoolbox header anaalyser
 ![Mxheaderanalyser](phish.png)
 
 ---
